@@ -1,48 +1,48 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1726615258901 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1726615352673 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAwmAAAAAZICSgc-AAAAAQAAAAEAAAAAAAAAAGKOOIepLpdZoNbPDJzzwMcMtNd4PlwR3E4atlouJ8MO
-
-TUNNELS
-item-surgery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726615274072 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAwmAAAAAZICSkJ_AAAAAQAAAAEAAAAAAAAAAPgdbAFBOKBZJlo2S9QlEz2whPcnbcRY8m1Jspo3eE5D
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAwmAAAAAZICS3WEAAAAAQAAAAEAAAAAAAAAAJk31LINvjEpiOgXUbD4FBeCvfnusxuney7u9SXqSYvR
 
 TUNNELS
 item-surgery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726615277194 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726615355775 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAwmAAAAAZICSkJ_AAAAAQAAAAEAAAAAAAAAAPgdbAFBOKBZJlo2S9QlEz2whPcnbcRY8m1Jspo3eE5D
-
-TUNNELS
-item-surgery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726615280258 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAwmAAAAAZICSkJ_AAAAAQAAAAEAAAAAAAAAAPgdbAFBOKBZJlo2S9QlEz2whPcnbcRY8m1Jspo3eE5D
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAwmAAAAAZICS3WEAAAAAQAAAAEAAAAAAAAAAJk31LINvjEpiOgXUbD4FBeCvfnusxuney7u9SXqSYvR
 
 TUNNELS
 item-surgery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726615283343 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726615358836 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAwmAAAAAZICSkJ_AAAAAQAAAAEAAAAAAAAAAPgdbAFBOKBZJlo2S9QlEz2whPcnbcRY8m1Jspo3eE5D
-
-TUNNELS
-item-surgery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726615286404 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAwmAAAAAZICSkJ_AAAAAQAAAAEAAAAAAAAAAPgdbAFBOKBZJlo2S9QlEz2whPcnbcRY8m1Jspo3eE5D
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAwmAAAAAZICS3WEAAAAAQAAAAEAAAAAAAAAAJk31LINvjEpiOgXUbD4FBeCvfnusxuney7u9SXqSYvR
 
 TUNNELS
 item-surgery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726615289481 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726615361904 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAwmAAAAAZICSn6wAAAAAQAAAAEAAAAAAAAAADedZqBrm0wX2cVQ6JbBJVAp4EkmR6Oy_5DH6AoQpg7q
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAwmAAAAAZICS3WEAAAAAQAAAAEAAAAAAAAAAJk31LINvjEpiOgXUbD4FBeCvfnusxuney7u9SXqSYvR
 
 TUNNELS
 item-surgery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726615364956 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAwmAAAAAZICS3WEAAAAAQAAAAEAAAAAAAAAAJk31LINvjEpiOgXUbD4FBeCvfnusxuney7u9SXqSYvR
+
+TUNNELS
+item-surgery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726615368010 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAwmAAAAAZICS7F0AAAAAQAAAAEAAAAAAAAAABFGM_54UzY1bDDYIxpO4GBwTjts8-tncFs9i2J-7ylA
+
+TUNNELS
+item-surgery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726615371116 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAwmAAAAAZICS7F0AAAAAQAAAAEAAAAAAAAAABFGM_54UzY1bDDYIxpO4GBwTjts8-tncFs9i2J-7ylA
+
+TUNNELS
+item-surgery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726615374202 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAwmAAAAAZICS7F0AAAAAQAAAAEAAAAAAAAAABFGM_54UzY1bDDYIxpO4GBwTjts8-tncFs9i2J-7ylA
+
+TUNNELS
+item-surgery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
